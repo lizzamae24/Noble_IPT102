@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NobleFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f0a35bfd333cbccef674375c8cef970df7b95b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("NobleFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NobleFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
