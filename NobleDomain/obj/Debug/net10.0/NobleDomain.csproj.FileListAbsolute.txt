@@ -1,0 +1,11 @@
+D:\MiranteIPT102\NobleIPT102\NobleDomain\bin\Debug\net10.0\NobleDomain.deps.json
+D:\MiranteIPT102\NobleIPT102\NobleDomain\bin\Debug\net10.0\NobleDomain.dll
+D:\MiranteIPT102\NobleIPT102\NobleDomain\bin\Debug\net10.0\NobleDomain.pdb
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\NobleDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\NobleDomain.AssemblyInfoInputs.cache
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\NobleDomain.AssemblyInfo.cs
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\NobleDomain.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\NobleDomain.dll
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\refint\NobleDomain.dll
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\NobleDomain.pdb
+D:\MiranteIPT102\NobleIPT102\NobleDomain\obj\Debug\net10.0\ref\NobleDomain.dll

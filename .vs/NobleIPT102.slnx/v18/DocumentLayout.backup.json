@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MiranteIPT102\\NobleIPT102\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|d:\\miranteipt102\\nobleipt102\\nobleframework\\queries\\getsensorbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|solutionrelative:nobleframework\\queries\\getsensorbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|d:\\miranteipt102\\nobleipt102\\nobleframework\\extensions\\sensorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|solutionrelative:nobleframework\\extensions\\sensorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|d:\\miranteipt102\\nobleipt102\\nobleframework\\extensions\\getidextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|solutionrelative:nobleframework\\extensions\\getidextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|d:\\miranteipt102\\nobleipt102\\nobledomain\\queries\\igetsensorbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|solutionrelative:nobledomain\\queries\\igetsensorbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|d:\\miranteipt102\\nobleipt102\\nobleframework\\commands\\createsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|solutionrelative:nobleframework\\commands\\createsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|d:\\miranteipt102\\nobleipt102\\nobleframework\\commands\\deletesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|solutionrelative:nobleframework\\commands\\deletesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|d:\\miranteipt102\\nobleipt102\\nobleframework\\commands\\updatesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|solutionrelative:nobleframework\\commands\\updatesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35C9EC5-C722-42E9-A7AB-2F3C80F2E59F}|NobleRepository\\NobleRepository.csproj|d:\\miranteipt102\\nobleipt102\\noblerepository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C9EC5-C722-42E9-A7AB-2F3C80F2E59F}|NobleRepository\\NobleRepository.csproj|solutionrelative:noblerepository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|d:\\miranteipt102\\nobleipt102\\nobledomain\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|solutionrelative:nobledomain\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|d:\\miranteipt102\\nobleipt102\\nobledomain\\commands\\icreatesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|solutionrelative:nobledomain\\commands\\icreatesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|d:\\miranteipt102\\nobleipt102\\nobledomain\\commands\\iupdatesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|solutionrelative:nobledomain\\commands\\iupdatesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|d:\\miranteipt102\\nobleipt102\\nobledomain\\commands\\ideletesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|solutionrelative:nobledomain\\commands\\ideletesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|d:\\miranteipt102\\nobleipt102\\nobleframework\\nobleframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69E2B0A5-F6F1-4E05-A044-5CC78ED21043}|NobleFramework\\NobleFramework.csproj|solutionrelative:nobleframework\\nobleframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|d:\\miranteipt102\\nobleipt102\\nobledomain\\nobledomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|solutionrelative:nobledomain\\nobledomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35C9EC5-C722-42E9-A7AB-2F3C80F2E59F}|NobleRepository\\NobleRepository.csproj|d:\\miranteipt102\\nobleipt102\\noblerepository\\noblerepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B35C9EC5-C722-42E9-A7AB-2F3C80F2E59F}|NobleRepository\\NobleRepository.csproj|solutionrelative:noblerepository\\noblerepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|d:\\miranteipt102\\nobleipt102\\nobledomain\\nobledomain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9DFCA05F-A2B1-4495-AA75-899766A5DB86}|NobleDomain\\NobleDomain.csproj|solutionrelative:nobledomain\\nobledomain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35C9EC5-C722-42E9-A7AB-2F3C80F2E59F}|NobleRepository\\NobleRepository.csproj|d:\\miranteipt102\\nobleipt102\\noblerepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35C9EC5-C722-42E9-A7AB-2F3C80F2E59F}|NobleRepository\\NobleRepository.csproj|solutionrelative:noblerepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetIdExtensions.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Extensions\\GetIdExtensions.cs",
+              "RelativeDocumentMoniker": "NobleFramework\\Extensions\\GetIdExtensions.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Extensions\\GetIdExtensions.cs",
+              "RelativeToolTip": "NobleFramework\\Extensions\\GetIdExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:27:02.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateSensor.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Commands\\CreateSensor.cs",
+              "RelativeDocumentMoniker": "NobleFramework\\Commands\\CreateSensor.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Commands\\CreateSensor.cs",
+              "RelativeToolTip": "NobleFramework\\Commands\\CreateSensor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:04:02.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteSensor.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Commands\\DeleteSensor.cs",
+              "RelativeDocumentMoniker": "NobleFramework\\Commands\\DeleteSensor.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Commands\\DeleteSensor.cs",
+              "RelativeToolTip": "NobleFramework\\Commands\\DeleteSensor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:04:14.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGetSensorById.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Queries\\IGetSensorById.cs",
+              "RelativeDocumentMoniker": "NobleDomain\\Queries\\IGetSensorById.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Queries\\IGetSensorById.cs",
+              "RelativeToolTip": "NobleDomain\\Queries\\IGetSensorById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:50:49.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateSensor.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Commands\\UpdateSensor.cs",
+              "RelativeDocumentMoniker": "NobleFramework\\Commands\\UpdateSensor.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Commands\\UpdateSensor.cs",
+              "RelativeToolTip": "NobleFramework\\Commands\\UpdateSensor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:04:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetSensorById.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Queries\\GetSensorById.cs",
+              "RelativeDocumentMoniker": "NobleFramework\\Queries\\GetSensorById.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Queries\\GetSensorById.cs",
+              "RelativeToolTip": "NobleFramework\\Queries\\GetSensorById.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:04:57.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SensorExtension.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Extensions\\SensorExtension.cs",
+              "RelativeDocumentMoniker": "NobleFramework\\Extensions\\SensorExtension.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\Extensions\\SensorExtension.cs",
+              "RelativeToolTip": "NobleFramework\\Extensions\\SensorExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:04:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleRepository\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "NobleRepository\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleRepository\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "NobleRepository\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:53:15.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "NobleDomain\\Models\\Sensor.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Models\\Sensor.cs",
+              "RelativeToolTip": "NobleDomain\\Models\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:50:45.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICreateSensor.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Commands\\ICreateSensor.cs",
+              "RelativeDocumentMoniker": "NobleDomain\\Commands\\ICreateSensor.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Commands\\ICreateSensor.cs",
+              "RelativeToolTip": "NobleDomain\\Commands\\ICreateSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:50:39.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUpdateSensor.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Commands\\IUpdateSensor.cs",
+              "RelativeDocumentMoniker": "NobleDomain\\Commands\\IUpdateSensor.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Commands\\IUpdateSensor.cs",
+              "RelativeToolTip": "NobleDomain\\Commands\\IUpdateSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:50:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDeleteSensor.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Commands\\IDeleteSensor.cs",
+              "RelativeDocumentMoniker": "NobleDomain\\Commands\\IDeleteSensor.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\Commands\\IDeleteSensor.cs",
+              "RelativeToolTip": "NobleDomain\\Commands\\IDeleteSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:50:43.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NobleFramework",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\NobleFramework.csproj",
+              "RelativeDocumentMoniker": "NobleFramework\\NobleFramework.csproj",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleFramework\\NobleFramework.csproj",
+              "RelativeToolTip": "NobleFramework\\NobleFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T15:08:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NobleDomain.csproj",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\NobleDomain.csproj",
+              "RelativeDocumentMoniker": "NobleDomain\\NobleDomain.csproj",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\NobleDomain.csproj",
+              "RelativeToolTip": "NobleDomain\\NobleDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T15:01:30.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NobleRepository.csproj",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleRepository\\NobleRepository.csproj",
+              "RelativeDocumentMoniker": "NobleRepository\\NobleRepository.csproj",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleRepository\\NobleRepository.csproj",
+              "RelativeToolTip": "NobleRepository\\NobleRepository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T15:00:41.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NobleDomain",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\NobleDomain.csproj",
+              "RelativeDocumentMoniker": "NobleDomain\\NobleDomain.csproj",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleDomain\\NobleDomain.csproj",
+              "RelativeToolTip": "NobleDomain\\NobleDomain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T15:01:33.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\MiranteIPT102\\NobleIPT102\\NobleRepository\\Repository.cs",
+              "RelativeDocumentMoniker": "NobleRepository\\Repository.cs",
+              "ToolTip": "D:\\MiranteIPT102\\NobleIPT102\\NobleRepository\\Repository.cs",
+              "RelativeToolTip": "NobleRepository\\Repository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:55:11.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFIHAAAAAAAAAAAwwGAHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-27T14:58:17.907Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

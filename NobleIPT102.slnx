@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="NobleDomain/NobleDomain.csproj" Id="9dfca05f-a2b1-4495-aa75-899766a5db86" />
+  <Project Path="NobleFramework/NobleFramework.csproj" Id="69e2b0a5-f6f1-4e05-a044-5cc78ed21043" />
+  <Project Path="NobleRepository/NobleRepository.csproj" Id="b35c9ec5-c722-42e9-a7ab-2f3c80f2e59f" />
+  <Project Path="NobleSensorData/NobleSensorData.sqlproj" Id="87958ddf-8352-4996-90a4-df8f62bb79de">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>

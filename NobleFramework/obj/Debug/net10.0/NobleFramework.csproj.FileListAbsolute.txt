@@ -1,0 +1,17 @@
+D:\MiranteIPT102\NobleIPT102\NobleFramework\bin\Debug\net10.0\NobleFramework.deps.json
+D:\MiranteIPT102\NobleIPT102\NobleFramework\bin\Debug\net10.0\NobleFramework.dll
+D:\MiranteIPT102\NobleIPT102\NobleFramework\bin\Debug\net10.0\NobleFramework.pdb
+D:\MiranteIPT102\NobleIPT102\NobleFramework\bin\Debug\net10.0\NobleDomain.dll
+D:\MiranteIPT102\NobleIPT102\NobleFramework\bin\Debug\net10.0\NobleRepository.dll
+D:\MiranteIPT102\NobleIPT102\NobleFramework\bin\Debug\net10.0\NobleDomain.pdb
+D:\MiranteIPT102\NobleIPT102\NobleFramework\bin\Debug\net10.0\NobleRepository.pdb
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFramework.csproj.AssemblyReference.cache
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFramework.AssemblyInfoInputs.cache
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFramework.AssemblyInfo.cs
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFramework.csproj.CoreCompileInputs.cache
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFra.AE9B1C8C.Up2Date
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFramework.dll
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\refint\NobleFramework.dll
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\NobleFramework.pdb
+D:\MiranteIPT102\NobleIPT102\NobleFramework\obj\Debug\net10.0\ref\NobleFramework.dll

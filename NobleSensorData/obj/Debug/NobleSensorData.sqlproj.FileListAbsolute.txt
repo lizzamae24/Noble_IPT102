@@ -1,0 +1,10 @@
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\bin\Debug\NobleSensorData.dacpac
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\bin\Debug\NobleSensorData.dll
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\bin\Debug\NobleSensorData.pdb
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\obj\Debug\NobleSensorData.sqlproj.AssemblyReference.cache
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\obj\Debug\Model.xml
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\obj\Debug\refactor.xml
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\obj\Debug\postdeploy.sql
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\obj\Debug\predeploy.sql
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\obj\Debug\NobleSensorData.dll
+D:\MiranteIPT102\NobleIPT102\NobleSensorData\obj\Debug\NobleSensorData.pdb
